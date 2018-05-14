@@ -1,0 +1,11 @@
+_*
+tumbletest/
+tests/
+
+*.zip
+anagram_sort.in
+anagram_sort.ok
+anagram_sort.out
+
+anagrame
+template_anagrame

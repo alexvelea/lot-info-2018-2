@@ -1,0 +1,7 @@
+*
+!/**/
+!*.*
+*.swp
+*.dSYM
+__pycache__
+.DS_STORE
